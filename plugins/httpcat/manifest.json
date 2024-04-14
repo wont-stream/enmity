@@ -1,0 +1,11 @@
+{
+   "name": "HTTPCat",
+   "version": "0.0.4",
+   "description": "Figure out what a status code is with cats.",
+   "authors": [
+      {
+         "name": "neinkatze",
+         "id": "1125315673829154837"
+      }
+   ]
+}

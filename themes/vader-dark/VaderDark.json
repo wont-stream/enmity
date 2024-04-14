@@ -1,7 +1,7 @@
 {
-  "name": "Vader",
-  "description": "A nice pink dark theme.",
-  "color": "#DA4453",
+  "name": "VaderDark",
+  "description": "A refreshing dark theme.",
+  "color": "#FFFFFF",
   "authors": [
     {
       "name": "neinkatze",
@@ -22,19 +22,19 @@
       "#FFFFFF"
     ],
     "TEXT_MUTED": [
-      "#DA4453",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#DA4453",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#DA4453",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#DA4453",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
@@ -42,15 +42,15 @@
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
-      "#120c0e",
+      "#222222",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#170c0e",
+      "#333333",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#170c0e",
+      "#333333",
       "#FFFFFF"
     ],
     "BACKGROUND_TERTIARY": [
@@ -58,7 +58,7 @@
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
-      "#DA4453",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
@@ -70,19 +70,19 @@
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#120c0e",
+      "#222222",
       "#ffffff"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#120c0e",
+      "#222222",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#DA4453",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#DA4453",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
@@ -118,7 +118,7 @@
       "#FFFFFF"
     ],
     "CHAT_BACKGROUND": [
-      "#120c0e",
+      "#222222",
       "#FFFFFF"
     ],
     "CHANNELS_DEFAULT": [
@@ -129,25 +129,25 @@
       "#000000"
     ],
     "BG_BASE_PRIMARY": [
-      "#120c0e",
+      "#222222",
       "#FFFFFF"
     ],
     "BG_BACKDROP": [
       "#04010173"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#120c0e"
+      "#222222"
     ],
     "TEXT_LINK": [
-      "#DA4453",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "KEYBOARD": [
-      "#120c0e",
+      "#222222",
       "#FFFFFF"
     ],
     "CHANNEL_ICON": [
-      "#DA4453",
+      "#FFFFFF",
       "#FFFFFF"
     ]
   },
@@ -158,30 +158,30 @@
     "PRIMARY_300": "#B6B6B6",
     "PRIMARY_360": "#C8C8C8",
     "PRIMARY_400": "#808080",
-    "PRIMARY_500": "#DA4453",
-    "PRIMARY_600": "#120c0e",
+    "PRIMARY_500": "#FFFFFF",
+    "PRIMARY_600": "#222222",
     "PRIMARY_630": "#1a1b21",
     "PRIMARY_700": "#101010",
     "PRIMARY_800": "#151515",
     "PLUM_1": "#FFFFFF",
     "PLUM_10": "#828282",
     "PLUM_11": "#232223",
-    "PLUM_13": "#eb99a1",
+    "PLUM_13": "#c9c9c9",
     "PLUM_17": "#000000",
-    "PLUM_18": "#120c0e",
-    "PLUM_19": "#120c0e",
-    "PLUM_20": "#120c0e",
-    "PLUM_22": "#120c0e",
+    "PLUM_18": "#222222",
+    "PLUM_19": "#222222",
+    "PLUM_20": "#222222",
+    "PLUM_22": "#222222",
     "BRAND_260": "#8a94a8",
-    "BRAND_500": "#DA4453",
-    "BRAND_900": "#120c0e",
+    "BRAND_500": "#FFFFFF",
+    "BRAND_900": "#222222",
     "BRAND": "#8a94a8",
     "YELLOW_300": "#ffffff",
     "GREEN_600": "#ffffff",
-    "DANGER": "#DA4453",
+    "DANGER": "#FFFFFF",
     "RED": "848484"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#120c0e"
+    "CHAT_GREY": "#222222"
 }
 }

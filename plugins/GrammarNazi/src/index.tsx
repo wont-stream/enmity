@@ -10,10 +10,9 @@ const GrammarNazi: Plugin = {
   ...manifest,
 
   async onStart() {
-    let dictionary = await fetch(
-      "https://wont-stream.github.io/dictionary/index.min.json"
-    );
-    dictionary = await dictionary.json();
+    const dictionary = await (
+      await fetch("https://wont-stream.github.io/dictionary/index.min.json")
+    ).json();
 
     const re = new RegExp(
       `(^|(?<=[^A-Z0-9]+))(${Object.keys(dictionary)

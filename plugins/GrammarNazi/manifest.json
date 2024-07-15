@@ -1,0 +1,11 @@
+{
+  "name": "GrammarNazi",
+  "version": "0.0.1",
+  "description": "Automatic punctuation, capitalization, and word replacement.",
+  "authors": [
+    {
+      "name": "wont.stream",
+      "id": "1125315673829154837"
+    }
+  ]
+}
